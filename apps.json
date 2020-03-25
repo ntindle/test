@@ -1,6 +1,6 @@
 {
-  "name": "Emulators and more",
-  "identifier": "com.ntindle.AltStore.Emulators",
+  "name": "Virtual Machines and More",
+  "identifier": "com.ntindle.AltStore.VMs",
   "apps": [
     {
       "name": "UTM",
