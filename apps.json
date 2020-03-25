@@ -15,6 +15,7 @@
       "iconURL": "https://getutm.app/assets/appicon.png",
       "tintColor": "78209d",
       "size": 127012571,
+      "beta": true,
       "screenshotURLs": [
         "https://github.com/utmapp/UTM/raw/master/screen.png"
       ]
@@ -32,6 +33,7 @@
       "iconURL": "https://ish.app/assets/icon.png",
       "tintColor": "78209d",
       "size": 3818419,
+      "beta": true,
       "screenshotURLs": [
         "https://ish.app/assets/front-iphone.png"
       ]
@@ -45,7 +47,17 @@
       "tintColor": "78209d",
       "imageURL": "https://user-images.githubusercontent.com/705880/77480195-8208bf00-6dde-11ea-95ec-98d4552cb2a0.png",
       "appID": "app.ish.iSH",
-      "date": "2020-03-8",
+      "date": "2020-03-08",
+      "notify": false
+    },
+    {
+      "title": "Release 0.6",
+      "identifier": "utm-release-06",
+      "caption": "UTM 0.6 Released",
+      "tintColor": "78209d",
+      "imageURL": "https://github.com/utmapp/UTM/raw/master/screen.png",
+      "appID": "com.osy86.UTM",
+      "date": "2020-03-22",
       "notify": false
     }
   ],
