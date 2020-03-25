@@ -1,0 +1,41 @@
+{
+  "name": "Emulators and more",
+  "identifier": "com.ntindle.AltStore.Emulators",
+  "apps": [
+    {
+      "name": "UTM",
+      "bundleIdentifier": "com.osy86.UTM",
+      "developerName": "Osy86",
+      "subtitle": "Run virtual machines on iOS",
+      "version": "0.6",
+      "versionDate": "2020-03-22T13:32:00-05:00",
+      "versionDescription": "New Features\nPause resume VM\nRestart VM\nAuto-save state on background and/or low memory warning\nPreferences page for controlling auto-save and gestures\nConfigure gestures (change two finger tap, long press, etc)\nSave display position/zoom automatically\nBug Fixes\n\nAdd delay in mouse up and key up events fixing broken cursor/keyboard in PPC/aarch64/others (#145)\nFix pasting long text (#151)\nRare crash due to texture buffer not being locked correctly (#23)\nFix issue of PPC QEMU trying not supporting QXL\nOther Information\n\niOS 13.4 fixes the signing bug that prevents free accounts from signing UTM. You can now sign UTM every 7 days with a free developer account again.",
+      "downloadURL": "https://github.com/utmapp/UTM/releases/download/v0.6/UTM.ipa",
+      "localizedDescription": "Run virtual Machines on iOS!",
+      "iconURL": "https://getutm.app/assets/appicon.png",
+      "tintColor": "78209d",
+      "size": 127012571,
+      "screenshotURLs": [
+        "https://user-images.githubusercontent.com/705880/77479189-8cc25480-6ddc-11ea-98aa-41eabe05c949.png",
+        "https://user-images.githubusercontent.com/705880/77479187-8c29be00-6ddc-11ea-92ee-d4e2de14d781.png",
+        "https://user-images.githubusercontent.com/705880/77479186-8b912780-6ddc-11ea-9303-32c615f2349f.png",
+        "https://user-images.githubusercontent.com/705880/77479180-892ecd80-6ddc-11ea-8705-400257988a2b.png"
+      ]
+    }
+  ],
+  "news": [
+    {
+      "title": "GBA4iOS Now Available",
+      "identifier": "gba4ios-available-download-demo",
+      "caption": "Download today from the Demo source.",
+      "tintColor": "78209d",
+      "imageURL": "https://user-images.githubusercontent.com/705880/77480195-8208bf00-6dde-11ea-95ec-98d4552cb2a0.png",
+      "appID": "com.osy86.UTM",
+      "date": "2020-03-24",
+      "notify": false
+    }
+  ],
+  "userInfo": {
+
+  }
+}
