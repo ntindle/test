@@ -21,17 +21,37 @@
         "https://user-images.githubusercontent.com/705880/77479186-8b912780-6ddc-11ea-9303-32c615f2349f.png",
         "https://user-images.githubusercontent.com/705880/77479180-892ecd80-6ddc-11ea-8705-400257988a2b.png"
       ]
+    },
+    {
+      "name": "iSH",
+      "bundleIdentifier": "app.ish.iSH",
+      "developerName": "Theodore Dubois",
+      "subtitle": "The Linux shell on iOS.",
+      "version": "0.65",
+      "versionDate": "2020-03-08T21:55:00-05:00",
+      "versionDescription": "New stuff:\n\nHalf-broken tmpfs implementation\nCaps lock mapping is now gone on iOS 13, because 13.4 adds a system-wide option\nKerberos works\nAltStore installation is officially supported\nadb works for connecting to Android devices over the network (not USB)\nAdded a way to fix your iSH setup if you mess up the launch/boot commands\nFixed bugs:\n\nceil(3) returning 4\nR's nlm demo crashing\nfish having some trouble changing process groups\ngit clone failing dramatically when your device only has one CPU\nSO_ERROR codes not being translated\nJava sockets failing with \"not a tty\"",
+      "downloadURL": "https://github.com/tbodt/ish/releases/download/builds%2Fbeta%2F65/iSH.ipa",
+      "localizedDescription": "The Linux shell on iOS.",
+      "iconURL": "https://ish.app/assets/icon.png",
+      "tintColor": "78209d",
+      "size": 3818419,
+      "screenshotURLs": [
+        "https://user-images.githubusercontent.com/705880/77479189-8cc25480-6ddc-11ea-98aa-41eabe05c949.png",
+        "https://user-images.githubusercontent.com/705880/77479187-8c29be00-6ddc-11ea-92ee-d4e2de14d781.png",
+        "https://user-images.githubusercontent.com/705880/77479186-8b912780-6ddc-11ea-9303-32c615f2349f.png",
+        "https://user-images.githubusercontent.com/705880/77479180-892ecd80-6ddc-11ea-8705-400257988a2b.png"
+      ]
     }
   ],
   "news": [
     {
-      "title": "GBA4iOS Now Available",
-      "identifier": "gba4ios-available-download-demo",
-      "caption": "Download today from the Demo source.",
+      "title": "Build 65",
+      "identifier": "builds/beta/65",
+      "caption": "Download build 65 today.",
       "tintColor": "78209d",
       "imageURL": "https://user-images.githubusercontent.com/705880/77480195-8208bf00-6dde-11ea-95ec-98d4552cb2a0.png",
-      "appID": "com.osy86.UTM",
-      "date": "2020-03-24",
+      "appID": "app.ish.iSH",
+      "date": "2020-03-8",
       "notify": false
     }
   ],
